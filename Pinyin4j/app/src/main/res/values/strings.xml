@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Pinyin4j</string>
+    <string name="project_description"># Pinyin4j\n
+        The pinyin4j is based on the removal of some non-essential functions from the original pinyin4j source code.\n
+        The pinyin4j is more lightweight than the original pinyin4j.\n\n
+        # About project\n
+        [Original pinyin4j]( http://pinyin4j.sourceforge.net/ ) (Author Li Min)\n
+        [Light pinyin4j]( https://github.com/handsomezhou/Pinyin4j )(Modified by handsomezhou)\n</string>
+
 </resources>
